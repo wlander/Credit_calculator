@@ -1,0 +1,1 @@
+C:\Java\jdk1.6.0_10\bin\jar cvfm calc_kredit.jar main_manifest.tmp *.class

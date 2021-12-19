@@ -1,0 +1,1 @@
+C:\Java\jdk1.6.0_10\bin\javac calc_kredit.java
